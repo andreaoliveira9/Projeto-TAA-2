@@ -1,4 +1,4 @@
-# Intel Image Classification
+# Image Scene Classification of Landscapes
 ```bash
 conda install -c conda-forge opencv
 conda install -c conda-forge tensorflow
