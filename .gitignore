@@ -1,9 +1,3 @@
 .DS_Store
 archive
-cnn_model.h5
-vgg16_model.h5
-densenet121_model.h5
-resnet50_model.h5
-cnn_model_data_augmentation.h5
-densenet121_augemented.h5
-vgg16_data_augmented.h5
+*.h5
