@@ -14,7 +14,7 @@
 - CNN: 0.85
 - VGG16: 0.88
 - ResNet50: 0.60
-- DenseNet121: 0.89
+- DenseNet121: 0.90
 - KNN: 0.37
 
 ## Report and Project Details
