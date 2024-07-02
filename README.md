@@ -1,5 +1,7 @@
 # Image Scene Classification of Landscapes
 
+Nota: 17.8
+
 This repository contains a machine learning project focused on classifying landscape images using various deep learning models. The goal is to accurately categorize images into predefined scene categories using the Intel Image Classification dataset.
 
 ## Dataset
